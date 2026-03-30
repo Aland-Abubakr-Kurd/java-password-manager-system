@@ -16,6 +16,10 @@ class PasswordManager {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        // Demo Credentials, You can test the system using the following credentials:
+        // Username: Aland
+        // Password: aland!@#123
+
         // Database of users and their corresponding hashed passwords
         String[] username = { "Aland", "Ashkan", "Akar", "Mohammad" };
         int[] password = { 807953594, -1664862333, -979663289, 124163642 };
