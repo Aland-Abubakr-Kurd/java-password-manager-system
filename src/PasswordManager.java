@@ -1,3 +1,6 @@
+// Author: Aland Abubakr
+// GitHub: https://github.com/Aland-Abubakr-Kurd
+
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
